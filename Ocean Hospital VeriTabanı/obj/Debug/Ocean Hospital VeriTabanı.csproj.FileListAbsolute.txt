@@ -1,0 +1,24 @@
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\bin\Debug\Ocean Hospital VeriTabanı.exe.config
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\bin\Debug\Ocean Hospital VeriTabanı.exe
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\bin\Debug\Ocean Hospital VeriTabanı.pdb
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean Hospital VeriTabanı.csproj.AssemblyReference.cache
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean Hospital VeriTabanı.csproj.SuggestedBindingRedirects.cache
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Form1.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Properties.Resources.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean Hospital VeriTabanı.csproj.GenerateResource.cache
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean Hospital VeriTabanı.csproj.CoreCompileInputs.cache
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean Hospital VeriTabanı.exe
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean Hospital VeriTabanı.pdb
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Hasta_Giriş_Paneli.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Hasta_Üye_Kayıt.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Hasta_Profil.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Hasta_Bilgi_Güncelleme.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Doktor_Giriş_Paneli.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Doktor_Profil.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Doktor_Bilgi_Güncelleme.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Sekreter_Giriş_Paneli.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Duyurular.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Sekreter_Profil.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Branş_Paneli.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Doktor_Paneli.resources
+C:\Users\90552\source\repos\Ocean Hospital VeriTabanı\obj\Debug\Ocean_Hospital_VeriTabanı.Randevu_Listesi.resources
