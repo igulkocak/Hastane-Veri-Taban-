@@ -1,1 +1,1 @@
-# Hastane-Veri-Taban-
+# Hastane Veri Tabanı Projesi
